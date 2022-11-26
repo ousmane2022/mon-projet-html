@@ -1,4 +1,13 @@
 li {
-    display: inline;
+  display: inline;
+}
+p {
+  font-family: roboto helvetica; 
+}
+  .title {
+    color:blue ;
+    font-size: xx-large ;
   }
-  font-family: Helvetica neue, roboto; 
+  #apropos {
+    text-decoration: underline;
+  }
